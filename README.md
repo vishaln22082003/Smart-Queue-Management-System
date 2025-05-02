@@ -1,2 +1,3 @@
 # Smart-Queue-Management-System
-Project
+This is a Smart queue management system for Health Insurance Companies
+
